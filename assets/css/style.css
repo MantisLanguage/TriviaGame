@@ -41,7 +41,7 @@ h2 {
     background-color: aqua;
     color: white;
     margin-top: 100px;
-    border: 2px solid blue;
+    border: 3px solid blue;
    
 }
 #done {
@@ -49,7 +49,7 @@ h2 {
     background-color: aqua;
     color: white;
     margin-top: 100px;
-    border: 2px solid blue;
+    border: 3px solid blue;
     position: center;
 
 }
