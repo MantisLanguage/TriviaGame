@@ -1,4 +1,59 @@
 body {
 
+    background-image: url("../imags/dpWRGyNLb.jpg")
+  
+}
+#main {
+width: 960px;
+min-height: 500px;
+box-sizing: border-box;
+padding: 5%;
+background-color: 	#191970;
+color: white;
+margin: 7% auto;
+
+}
+
+button {
+    display: block;
+    width: 450px;
+    height: 120px;
+    font-size: 41px;
+    margin-left: 20%;
     
+}
+h1{
+    color: white;
+    font-size: 450%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom:  5px;
+}
+
+#start {
+
+    background-color: aqua;
+    color: white;
+    margin-top: 100px;
+    border: 2px solid blue;
+   
+}
+#done {
+
+    background-color: aqua;
+    color: white;
+    margin-top: 100px;
+    border: 2px solid blue;
+    position: center;
+
+}
+
+#quiz {
+    margin-top: 64px;
 }
